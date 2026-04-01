@@ -1,0 +1,19 @@
+body {
+    background-color:#efe3d6;
+}
+  
+.gambar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.gambar-kucing {
+    max-height: 300px;
+    width: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-left: 0 !important;
+    display: block;
+}
